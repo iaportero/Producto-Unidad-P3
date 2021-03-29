@@ -51,6 +51,34 @@ Desarrollo
 https://github.com/iaportero/Producto-Unidad-P3/tree/main/Codigo%20Fuente
 
 
+Aportaciones
+
+https://github.com/iaportero/Producto-Unidad-P3/tree/main/Aportaciones
+
+
+Conclusiones
+
+*  Se examino  el generador  trifasico en sus diferentes  aplicaciones  y  sus formas de onda  senoidales trifasicas
+*  Se abordo las ventajas de los generadores trifasicos en aplicaciones de potencia
+*  Se analizo varios tipos de conexiones trifasicas y las distintas formas de medicion de potencia
+
+Anexos 
+
+Link del video
+
+
+
+Link del articulo
+
+
+Bibliografia
+
+Principios de Circuitos Electricos, Floyd .L.Thomas,Mexico 2007,Recuperado : 29-03-2021 , Cap 21 , Pag : 887-913
+
+
+
+
+
 
 
 
