@@ -76,7 +76,7 @@ Bibliografia
 Principios de Circuitos Electricos, Floyd .L.Thomas,Mexico 2007,Recuperado : 29-03-2021 , Cap 21 , Pag : 887-913
 
 
-
+Circuitos de corriente alterna trifasica  , Rodriguez .M  , Recuperado : 29-03-2021 ,Link :  https://personales.unican.es/rodrigma/PDFs/Trif%C3%A1sica.pdf
 
 
 
